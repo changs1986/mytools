@@ -1,0 +1,21 @@
+; Summary: Proxy Switchy! Exported Rule List
+; Date: 2014/11/7
+; Website: http://bit.ly/proxyswitchy
+
+#BEGIN
+
+[wildcard]
+*://*.google.com/*
+*://twitter.com/*
+*://*.gstatic.com/*
+*://*.googleusercontent.com/*
+*://feedly.com/*
+*://*.tumblr.com/*
+*://*.pearltrees.com/*
+*://*.*.amazonaws.com/*
+*://*.twimg.com/*
+
+[regexp]
+
+
+#END
